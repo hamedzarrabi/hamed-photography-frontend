@@ -1,6 +1,6 @@
 <template>
   <div
-    class="p-16 container mx-auto mt-6 grid grid-cols-2 bg-gray-500 rounded overflow-hidden"
+    class="p-16 container mx-auto  grid grid-cols-2 bg-gray-500 rounded overflow-hidden"
   >
     <div class="flex ml-auto"></div>
     <div class="flex relative ml-auto">

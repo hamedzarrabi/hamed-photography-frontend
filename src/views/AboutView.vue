@@ -1,11 +1,11 @@
 <template>
   <div
-    class="container w-1/2 mx-auto my-2 p-8 bg-gray-100 rounded-md shadow-md"
+      class="container w-1/2 mx-auto  p-8 bg-gray-500 rounded-md shadow-md"
   >
-  <img src="@/../public/images/colton-sturgeon-C2uzaHcTRBU-unsplash.jpg"
-   class="w-64 h-68 float-left mr-4 border-8 border-gray-300 shadow-sm " alt="hamed zarrabi">
-
-    <p class="font-extralight text-justify text-xl italic leading-2 border-b-2 font-ab indent-8">
+    <img src="@/../public/images/colton-sturgeon-C2uzaHcTRBU-unsplash.jpg"
+         class="w-64 h-68 float-left mr-4 border-8 border-gray-300 shadow-sm " alt="hamed zarrabi">
+    <span class="text-3xl  justify-center my-4 flex font-h text-gray-100 font-light border-b p-4">About Me</span>
+    <p class="font-extralight text-justify text-xl italic leading-2  font-ab indent-8">
 
       Each photograph conceals a narrative rich in beauty, character, and
       pervasive emotions. This style of photography transcends fleeting moments,
@@ -27,16 +27,19 @@
       life. In this diverse and emotionally rich world, portrait and fashion
       photography stand as a beautiful and profound art form in the minds and
       hearts of viewers.
-      <br >
-      <br >
-      <span class="font-m border-b-2"> In this artistic journey, Hamed Zarrabi meticulously
+      <br>
+      <br>
+      <span class="font-ab text-gray-200"> "In this artistic journey, Hamed Zarrabi meticulously
       delves into deep details and concealed emotions. He employs light as a
       ambassador of illumination in darkness and shadows as companions in the
       narrative of emotions. In each photograph, emotions are expressed in a way
       that guides the spectator to the profound depths of the soul and the
-      captivating beauty of moments.
+      captivating beauty of moments."
     </span>
 
     </p>
   </div>
 </template>
+
+<script>
+</script>
