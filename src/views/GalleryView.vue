@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="container mx-auto p-4  bg-gray-00">
+  <div class="container mx-auto p-4  bg-gray-500">
 
     <h1 class="text-3xl font-semibold mb-6 font-ab">Photo Gallery</h1>
 
